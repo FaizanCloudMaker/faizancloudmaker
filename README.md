@@ -5,6 +5,7 @@
 
 <h3> I’m currently working on: </h3>
 - <b> Create an EC2 Instance in AWS using Terraforms </b>
+<br>https://github.com/FaizanCloudMaker/Ec2_Instance_using_Terraforms
 
 <h2> 🤳 Connect with me:</h2>
 
